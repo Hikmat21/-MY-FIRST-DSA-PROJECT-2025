@@ -5,9 +5,9 @@ Here are some of my recent data analysis case studies:
 - Description: 
 An in-depth analysis of Amazon products and customers reviews to uncover insights for product improvement, marketing strategies, and customer engagement.
 - Repository Link:[Download](https://github.com/Hikmat21/Amazon-Products-Review) 
-## Case Study 2: Kultra Mega Stores (KMS) Sales Analysis.
+## Case Study 2: Palmora Group HR Analysis.
 ### Description:
-A detailed analysis of sales and order data for a retail company, focusing on identifying key trends, top/bottom performers, and operational efficiencies using SQL and Excel.
+A detailed HR analysis of company data which gives insights the Palmora management team needs to address focus in on gender-rrlated issues within the organization and its regions using Powerbi
 ### Repository Link:
 
 
