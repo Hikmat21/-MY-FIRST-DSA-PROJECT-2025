@@ -8,7 +8,7 @@ An in-depth analysis of Amazon products and customers reviews to uncover insight
 ## Case Study 2: Palmora Group HR Analysis.
 ### Description:
 A detailed HR analysis of company data which gives insights the Palmora management team needs to address focus in on gender-rrlated issues within the organization and its regions using Powerbi
-### Repository Link:[Download](https://github.com/Hikmat21/PALMORA-GROUP-HR-ANALYSIS/bl)
+### Repository Link:[Download](https://github.com/Hikmat21/PALMORA-GROUP-HR-ANALYSIS)
 
 
 
